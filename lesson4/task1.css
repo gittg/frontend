@@ -1,0 +1,23 @@
+body {
+  margin: 0
+}
+
+div {
+  width: 900px;
+  height: 40px;
+  text-align: center;
+  background-color: purple;
+  margin: auto;
+ }
+
+button {
+  font: bold 32px Economica, sans-serif;
+  background-color: purple;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: white;
+  color: gray;
+}

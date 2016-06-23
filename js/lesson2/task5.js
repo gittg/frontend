@@ -16,4 +16,4 @@ text = (name == 'admin')
             ? 'No login'
             : '';
 
-console.log(text);
+console.log(text);0
